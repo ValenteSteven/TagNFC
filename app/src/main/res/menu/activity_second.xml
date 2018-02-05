@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/retour"
+        android:icon="@drawable/icone_retourner"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/retour"/>
+
+</menu>

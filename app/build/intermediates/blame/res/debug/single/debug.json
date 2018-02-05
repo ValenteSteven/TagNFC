@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mbds.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-hdpi\\mbds.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mbds.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xhdpi\\mbds.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icone_retourner.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-mdpi\\icone_retourner.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tag.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xhdpi\\tag.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icone_retourner.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-hdpi\\icone_retourner.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icone_quitter.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xxhdpi\\icone_quitter.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icone_quitter.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-hdpi\\icone_quitter.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background2.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-ldpi\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mbds.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xxhdpi\\mbds.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background2.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xhdpi\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icone_quitter.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-mdpi\\icone_quitter.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background2.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-mdpi\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icone_quitter.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-ldpi\\icone_quitter.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icone_retourner.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-ldpi\\icone_retourner.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tag.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xxhdpi\\tag.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icone_a_propos.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xhdpi\\icone_a_propos.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icone_retourner.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xxhdpi\\icone_retourner.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icone_a_propos.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-ldpi\\icone_a_propos.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icone_retourner.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xhdpi\\icone_retourner.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tag.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-hdpi\\tag.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background2.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xxhdpi\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tag.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-ldpi\\tag.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mbds.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-ldpi\\mbds.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\layout_nfcreading.xml.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\layout\\nfcreading.xml"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icone_a_propos.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-hdpi\\icone_a_propos.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icone_a_propos.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xxhdpi\\icone_a_propos.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_second.xml.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\menu\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icone_a_propos.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-mdpi\\icone_a_propos.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\menu_tag.xml.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\menu\\tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background2.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-hdpi\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\layout_mybutton.xml.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\layout\\mybutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tag.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-mdpi\\tag.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mbds.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-mdpi\\mbds.png"
+    },
+    {
+        "merged": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icone_quitter.png.flat",
+        "source": "C:\\Users\\reiko\\AndroidStudioProjects\\TagNFC\\app\\src\\main\\res\\drawable-xhdpi\\icone_quitter.png"
+    }
+]

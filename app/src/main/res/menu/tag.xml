@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/apropos"
+        android:icon="@drawable/icone_a_propos"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/apropos"/>
+    
+    <item
+        android:id="@+id/quitter"
+        android:icon="@drawable/icone_quitter"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/quitter"/>
+
+</menu>

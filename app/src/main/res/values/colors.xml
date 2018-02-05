@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color
+		name="opaque_black">#222</color>
+	<color
+		name="opaque_white">#fff</color>
+	<color
+		name="translucent_black">#bf222222</color>
+	<color
+		name="opaque_green">#87c80a</color>
+	<color
+		name="opaque_green_light">#9ED54D</color>
+	<color
+		name="opaque_green_lighter">#9ED54D</color>
+	<color
+		name="opaque_grey">#7e8082</color>
+	<color
+		name="opaque_grey_light">#98999B</color>
+	<color
+		name="opaque_grey_lighter">#B2B3B4</color>
+	<color
+		name="opaque_pink">#d40072</color>
+	<color
+		name="opaque_yellow">#f4aa00</color>
+	<color
+		name="opaque_yellow_light">#F4BB47</color>
+	<color
+		name="opaque_yellow_lighter">#F3CB6F</color>
+	<color
+		name="opaque_blue">#009ac7</color>
+	<color
+		name="translucent_blue">#bf009ac7</color>
+	<color name="holo_orange_light">#ffc600</color>
+</resources>

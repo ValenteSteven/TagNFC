@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TagNFC</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+   	<string name="nfc_reading">Reading NFC&#8230;</string>
+  	<string name="share">SHARE</string>
+  	<string name="clear">CLEAR</string>
+  	<string name="label_demo_nfc">Lecture et écriture de TAG NFC</string>
+  	<string name="contenu">Veuillez écrire un message....</string>
+  	<string name="notification">Creer une notification</string>
+  	<string name="apropos">A propos</string>
+  	<string name="quitter">Quitter</string>
+  	<string name="retour">Retour</string>
+  	
+</resources>

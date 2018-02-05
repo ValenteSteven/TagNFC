@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_orange_light">#ffc600</color>
+    <color name="opaque_black">#222</color>
+    <color name="opaque_blue">#009ac7</color>
+    <color name="opaque_green">#87c80a</color>
+    <color name="opaque_green_light">#9ED54D</color>
+    <color name="opaque_green_lighter">#9ED54D</color>
+    <color name="opaque_grey">#7e8082</color>
+    <color name="opaque_grey_light">#98999B</color>
+    <color name="opaque_grey_lighter">#B2B3B4</color>
+    <color name="opaque_pink">#d40072</color>
+    <color name="opaque_white">#fff</color>
+    <color name="opaque_yellow">#f4aa00</color>
+    <color name="opaque_yellow_light">#F4BB47</color>
+    <color name="opaque_yellow_lighter">#F3CB6F</color>
+    <color name="translucent_black">#bf222222</color>
+    <color name="translucent_blue">#bf009ac7</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">TagNFC</string>
+    <string name="apropos">A propos</string>
+    <string name="clear">CLEAR</string>
+    <string name="contenu">Veuillez écrire un message....</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="label_demo_nfc">Lecture et écriture de TAG NFC</string>
+    <string name="nfc_reading">Reading NFC…</string>
+    <string name="notification">Creer une notification</string>
+    <string name="quitter">Quitter</string>
+    <string name="retour">Retour</string>
+    <string name="share">SHARE</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="buttonStyle" parent="android:Widget.Button">
+		<item name="android:textColor">@color/opaque_grey</item>
+	</style>
+    <style name="greenWindowTitleBackground">
+		<item name="android:background">@color/opaque_green</item>
+		<item name="android:textColor">@color/opaque_white</item>
+	</style>
+    <style name="tabIndicatorText">
+		<item name="android:textColor">@color/opaque_white</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:shadowColor">#222</item>
+		<item name="android:shadowRadius">2</item>
+	</style>
+    <style name="textShadow">
+		<item name="android:textColor">@color/opaque_white</item>
+		<item name="android:shadowColor">#444</item>
+		<item name="android:shadowRadius">2</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+</resources>
